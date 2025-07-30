@@ -1,0 +1,41 @@
+.green {
+    background-color: rgb(4, 209, 4);
+    text-align: center;
+    color: white;
+}
+button {
+    background-color: rgb(4, 187, 4);
+    width: 150px;
+}
+textarea {
+    height: 80px;
+    width: 300px;
+}
+input {
+    width: 300px;
+}
+.border {
+    border-radius: 30px;
+}
+.grey {
+    background-color: rgb(231, 230, 230);
+}
+th,td {
+    border: 1px solid grey;
+}
+table {
+    border-collapse: collapse;
+    width: 1400px;
+    margin: 0 auto;
+}
+.g {
+    background-color: rgb(223, 222, 222) ;
+}
+.width {
+    width: 1500px;
+}
+.black {
+    background-color: rgb(32, 32, 32);
+    color: white;
+    text-align: center;
+}
